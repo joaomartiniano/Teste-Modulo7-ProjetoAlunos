@@ -1,0 +1,19 @@
+GRUPO II
+
+Questão 1
+----------------------------------------------------------
+
+public struct Animal
+{
+    public string Nome;
+    public int Anos;
+    public double Peso;
+}
+
+
+
+Animal animal1;
+
+animal1.Nome = "Rex";
+animal1.Anos = 2;
+animal1.Peso = 42.2;
